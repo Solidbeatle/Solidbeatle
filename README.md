@@ -34,11 +34,11 @@
 ---  
 
 #### 📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solidbeatle&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solidbeatle&layout=compact&theme=radical)  
 
 ---  
 
 #### 📫 **Let’s Connect!**  
-- 🌐 **Portfolio**: *[Add your link]*  
-- 💌 **Email**: *[Your preferred email]*  
+- 🌐 **Portfolio**: *[https://guns.lol/CyberXpulse]*  
+- 💌 **Email**: *[cyberxpulse07@gmail.com]*  
