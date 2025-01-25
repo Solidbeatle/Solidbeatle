@@ -47,14 +47,14 @@ As a full-stack developer, I specialize in creating powerful, scalable, and effi
 ---
 
 #### 📈 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=solidbeatle&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solidbeatle&layout=compact&theme=radical)  
 
 ---
 
 #### 🖥️ **Live Discord Status**  
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)  
-[Click here to view my live Discord status!](https://discord.com/users/YourDiscordID)  
+[Click here to view my live Discord status!](https://discord.com/users/1190494698452824152)  
 *Feel free to join my server or send me a message!*
 
 ---
@@ -68,5 +68,5 @@ As a full-stack developer, I specialize in creating powerful, scalable, and effi
 
 #### 📱 **Follow Me on Discord!**  
 - **Discord Handle**: `gg.cyberz`  
-- **Server Link**: *[Add server link here]*  
-- **Status**: *[Live status will display here with a clickable link to view more]*
+- **Server Link**: *Coming Soon*  
+- **Status**: *Currently Working*
