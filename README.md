@@ -1,5 +1,5 @@
 ### 💻 **Advanced Programmer | Full-Stack Developer | Tech Innovator**  
-
+![CyberXpulse](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
 👨‍💻 **"Code is my craft, innovation is my passion."**  
 As a full-stack developer, I specialize in creating powerful, scalable, and efficient solutions for real-world challenges. My expertise spans multiple languages, frameworks, and tools, empowering me to push the boundaries of software development. Whether it's backend systems, dynamic frontend interfaces, or cutting-edge game plugins, I am committed to delivering clean, high-performance code.
 
