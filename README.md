@@ -38,7 +38,7 @@ As a full-stack developer, I specialize in creating powerful, scalable, and effi
   ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
-
+![Owner](https://img.shields.io/badge/Owner-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
 #### 🌟 **What I Do**  
 - 🚀 **Full-Stack Development**: Architecting end-to-end solutions, from designing sleek, responsive frontends to developing robust backend systems.  
 - 🎮 **Game Development**: Creating custom game mechanics, plugins, and entire game servers with tools like Minecraft and Unity.  
